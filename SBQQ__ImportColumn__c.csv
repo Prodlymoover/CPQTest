@@ -1,0 +1,4 @@
+"Guid","Name","SBQQ__ColumnIndex__c","SBQQ__FieldName__c","SBQQ__ImportFormat__c","SBQQ__Key__c"
+23a3a1e8-e5d0-48a2-aae4-3b2b4c62f341,List Price,3.0,List Price,96a4e4b4-a623-42c8-b3df-7b4ffc08bb66,false
+31610315-96b2-44f3-9842-61f563340113,Product Code,2.0,Product Code,96a4e4b4-a623-42c8-b3df-7b4ffc08bb66,true
+d73e1dbe-2ae8-4a1d-bafe-3ff179e3e73d,Quantity,1.0,Quantity,96a4e4b4-a623-42c8-b3df-7b4ffc08bb66,false

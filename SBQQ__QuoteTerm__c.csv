@@ -1,0 +1,258 @@
+"Guid","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__Body__c","SBQQ__ConditionsMet__c","SBQQ__Locked__c","SBQQ__PrintOrder__c","SBQQ__Quote__c","SBQQ__Status__c","SBQQ__TemplateContent__c"
+0d5d3807-1687-4d81-89b4-cd40511545a4,true,"#N/A","<p><b>DEFINITIONS - Modified</b></p>
+
+<p>&quot;Affiliate” means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity. &quot;Control,&quot; for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.</p>
+
+<p> </p>
+
+<p>“Agreement” means this Master Subscription Agreement.</p>
+
+<p> </p>
+
+<p>“Documentation” means Our online help and training materials for the Services accessible viaOur portals as updated from time to time.</p>
+
+<p> </p>
+
+<p>“Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.</p>
+
+<p> </p>
+
+<p>&quot;Order Form&quot; means the ordering documents for purchases hereunder, including addenda thereto, that are entered into between You and Us from time to time. By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto. Order Forms shall be deemed incorporated herein by reference.</p>
+
+<p> </p>
+
+<p>&quot;Purchased Services&quot; means Services that You or Your Affiliates purchase under an Order Form, as distinguished from those provided pursuant to a free trial.</p>
+
+<p> </p>
+
+<p>&quot;Services&quot; means the online, Web-based applications and platform provided by Us via or other designated websites as described in the Documentation, that are ordered by You or Your Affiliates as part of a free trial or under an Order Form, including any associated offline components but excluding Third-Party Applications.</p>
+
+<p> </p>
+
+<p>“Subscription Term” means the period of time from the start date to the end date specified in each Order Form for each subscription purchased thereunder. Each renewal of a subscription, whether automatic or in writing, shall constitute a new Subscription Term.</p>
+
+<p> </p>
+
+<p>&quot;Third-Party Applications&quot; means online, Web-based applications and offline software products that are provided by third parties but may be configured to interoperate with the Services.</p>
+
+<p> </p>
+
+<p>&quot;Users&quot; means individuals who are authorized by You to use the Services, for whom subscriptions to the Services have been purchased, and who have been supplied user identifications and passwords by You. Users may include but are not limited to Your employees, consultants, contractors, and agents.</p>
+
+<p> </p>
+
+<p>&quot;We&quot;, &quot;Us&quot;, or &quot;Our&quot; means {!template.SBQQ__CompanyName__c}.</p>
+
+<p> </p>
+
+<p>&quot;You&quot; or &quot;Your&quot; means the company or other legal entity for which You are accepting this Agreement, and Affiliates of that company or entity.</p>
+
+<p> </p>",All,false,1.0,"#N/A",Draft,"#N/A"
+135b79cf-c4bf-469b-8657-469f58f077bd,true,"#N/A","<p><b>DEFINITIONS</b></p>
+
+<p>&quot;<strong>PARTNER”</strong> means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity. <strong>&quot;ALLOWS,&quot; </strong>for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.</p>
+
+<p> </p>
+
+<p>“Agreement” means this Master Subscription Agreement.</p>
+
+<p> </p>
+
+<p>“Documentation” means Our online help and training materials for the Services accessible viaOur portals as updated from time to time.</p>
+
+<p> </p>
+
+<p>“Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.</p>
+
+<p> </p>
+
+<p>&quot;Order Form&quot; means the ordering documents for purchases hereunder, including addenda thereto, that are entered into between You and Us from time to time. By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto. Order Forms shall be deemed incorporated herein by reference.</p>
+
+<p> </p>
+
+<p>&quot;Purchased Services&quot; means Services that You or Your Affiliates purchase under an Order Form, as distinguished from those provided pursuant to a free trial.</p>
+
+<p> </p>
+
+<p>&quot;Services&quot; means the online, Web-based applications and platform provided by Us via or other designated websites as described in the Documentation, that are ordered by You or Your Affiliates as part of a free trial or under an Order Form, including any associated offline components but excluding Third-Party Applications.</p>
+
+<p> </p>
+
+<p>“Subscription Term” means the period of time from the start date to the end date specified in each Order Form for each subscription purchased thereunder. Each renewal of a subscription, whether automatic or in writing, shall constitute a new Subscription Term.</p>
+
+<p> </p>
+
+<p>&quot;Third-Party Applications&quot; means online, Web-based applications and offline software products that are provided by third parties but may be configured to interoperate with the Services.</p>
+
+<p> </p>
+
+<p>&quot;Users&quot; means individuals who are authorized by You to use the Services, for whom subscriptions to the Services have been purchased, and who have been supplied user identifications and passwords by You. Users may include but are not limited to Your employees, consultants, contractors, and agents.</p>
+
+<p> </p>
+
+<p>&quot;We&quot;, &quot;Us&quot;, or &quot;Our&quot; means {!template.SBQQ__CompanyName__c}.</p>
+
+<p> </p>
+
+<p>&quot;You&quot; or &quot;Your&quot; means the company or other legal entity for which You are accepting this Agreement, and Affiliates of that company or entity.</p>
+
+<p> </p>",All,false,1.0,"#N/A",Approved,"#N/A"
+20ab54cf-31f6-48d7-8574-144cae13396e,true,"#N/A","<b>USE OF THE SERVICES<br>Our Responsibilities.</b> In addition to providing the Purchased Services as described, We shall provide You with standard support, in accordance with Our then-current support policy for the Purchased Services, during the applicable Subscription Term and at no additional charge.<br><br><b>Your Responsibilities.</b> You shall (a) be responsible for Users’ compliance with this Agreement, (b) be solely responsible for the accuracy, quality, integrity, and legality of Your Data and of the means by which You acquired Your Data, (c) use commercially reasonable efforts to prevent unauthorized access to or use of the Services, and notify Us promptly of any such unauthorized access or use, and (d) use the Services only in accordance with the Documentation and applicable laws and government regulations.<br><br><b>Your Data.</b> The Services access and process Your Data in order to generate reports, analyses, documents, and/or results. If You choose to save such output, it will be saved as Your Data. However, Your ability to recreate or duplicate such output will cease upon expiration or termination of this Agreement. We will not access Your Data except; (a) at Your request, to provide technical support or to assist in the implementation or configuration of the Services; or (b) as compelled by law in accordance with Section (Compelled Disclosure).<br><br> ",All,false,3.0,"#N/A",Approved,"#N/A"
+2345bcee-1c44-4004-82ad-c8799bd498e6,true,"#N/A","<p><b>DEFINITIONS</b></p>
+
+<p>&quot;Affiliate” means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity. &quot;Control,&quot; for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.</p>
+
+<p> </p>
+
+<p>“Agreement” means this Master Subscription Agreement.  Govern in CA.</p>
+
+<p> </p>
+
+<p>“Documentation” means Our online help and training materials for the Services accessible viaOur portals as updated from time to time.</p>
+
+<p> </p>
+
+<p>“Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.</p>
+
+<p> </p>
+
+<p>&quot;Order Form&quot; means the ordering documents for purchases hereunder, including addenda thereto, that are entered into between You and Us from time to time. By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto. Order Forms shall be deemed incorporated herein by reference.</p>
+
+<p> </p>
+
+<p>&quot;Purchased Services&quot; means Services that You or Your Affiliates purchase under an Order Form, as distinguished from those provided pursuant to a free trial.</p>
+
+<p> </p>
+
+<p>&quot;Services&quot; means the online, Web-based applications and platform provided by Us via or other designated websites as described in the Documentation, that are ordered by You or Your Affiliates as part of a free trial or under an Order Form, including any associated offline components but excluding Third-Party Applications.</p>
+
+<p> </p>
+
+<p>“Subscription Term” means the period of time from the start date to the end date specified in each Order Form for each subscription purchased thereunder. Each renewal of a subscription, whether automatic or in writing, shall constitute a new Subscription Term.</p>
+
+<p> </p>
+
+<p>&quot;Third-Party Applications&quot; means online, Web-based applications and offline software products that are provided by third parties but may be configured to interoperate with the Services.</p>
+
+<p> </p>
+
+<p>&quot;Users&quot; means individuals who are authorized by You to use the Services, for whom subscriptions to the Services have been purchased, and who have been supplied user identifications and passwords by You. Users may include but are not limited to Your employees, consultants, contractors, and agents.</p>
+
+<p> </p>
+
+<p>&quot;We&quot;, &quot;Us&quot;, or &quot;Our&quot; means {!template.SBQQ__CompanyName__c}.</p>
+
+<p> </p>
+
+<p>&quot;You&quot; or &quot;Your&quot; means the company or other legal entity for which You are accepting this Agreement, and Affiliates of that company or entity.</p>
+
+<p> </p>",All,false,1.0,"#N/A",Draft,"#N/A"
+29fd2e23-041d-4778-9660-3078626fe370,true,"#N/A",<p><b>PURCHASED SERVICES</b></p><p><b>Provision of Purchased Services.</b> We shall make the Purchased Services available to You pursuant to this Agreement and the relevant Order Forms during each Subscription Term and your timely payment of all applicable fees. You agree that Your purchases hereunder are neither contingent on the delivery of any future functionality or features nor dependent on any oral or written public comments made by Us regarding future functionality or features.</p><p><br></p>,All,false,2.0,"#N/A",Approved,"#N/A"
+328668b8-e32b-44d7-8a01-3150c848dfd3,true,"#N/A","<p><b>DEFINITIONS</b><br>&quot;Affiliate” means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity. &quot;Control,&quot; for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.<br><br>“Agreement” means this Master Subscription Agreement.<br><br>“Documentation” means Our online help and training materials for the Services accessible viaOur portals as updated from time to time.<br><br>“Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.<br><br>&quot;Order Form&quot; means the ordering documents for purchases hereunder, including addenda thereto, that are entered into between You and Us from time to time. By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto. Order Forms shall be deemed incorporated herein by reference.<br><br>&quot;Purchased Services&quot; means Services that You or Your Affiliates purchase under an Order Form, as distinguished from those provided pursuant to a free trial.<br><br>&quot;Services&quot; means the online, Web-based applications and platform provided by Us via or other designated websites as described in the Documentation, that are ordered by You or Your Affiliates as part of a free trial or under an Order Form, including any associated offline components but excluding Third-Party Applications.<br><br>“Subscription Term” means the period of time from the start date to the end date specified in each Order Form for each subscription purchased thereunder. Each renewal of a subscription, whether automatic or in writing, shall constitute a new Subscription Term.<br><br>&quot;Third-Party Applications&quot; means online, Web-based applications and offline software products that are provided by third parties but may be configured to interoperate with the Services.<br><br>&quot;Users&quot; means individuals who are authorized by You to use the Services, for whom subscriptions to the Services have been purchased, and who have been supplied user identifications and passwords by You. Users may include but are not limited to Your employees, consultants, contractors, and agents.<br><br>&quot;We&quot;, &quot;Us&quot;, or &quot;Our&quot; means {!template.SBQQ__CompanyName__c}.<br><br>&quot;You&quot; or &quot;Your&quot; means the company or other legal entity for which You are accepting this Agreement, and Affiliates of that company or entity.</p>
+
+<p><strong>&quot;Me&quot; means the greatest sales rep in the world!!</strong><br> </p>",All,false,1.0,"#N/A",Approved,"#N/A"
+3bbbf962-e18f-432d-a760-2f1e31530ab0,true,"#N/A","<b>PROPRIETARY RIGHTS<br>Reservation of Rights.</b> Subject to the limited rights expressly granted hereunder, We and Our licensors reserve all rights, title, and interest in and to the Services, including all related intellectual property rights. No rights are granted to You hereunder other than as expressly set forth herein.<br><br><b>Ownership of Your Data. </b>As between Us and You, You exclusively own all rights, title, and interest in and to all of Your Data.<br><br><b>Suggestions.</b> We shall have a royalty-free, worldwide, transferable, sublicenseable, irrevocable, perpetual license to use or incorporate into the Services any suggestions, enhancement requests, recommendations, correction or other feedback provided by You, including Users, relating to the functionality and/or operation of the Services.<br> ",All,false,4.0,"#N/A",Approved,"#N/A"
+40f8d6e1-5f06-4678-8698-c27989aca50f,true,"#N/A","<b>User Subscriptions.</b> Unless otherwise specified in the applicable Order Form, (i) Purchased Services are purchased as User subscriptions and may be accessed by no more than the specified number of Users, (ii) additional User subscriptions may be purchased during the Subscription Term by signing an additional Order Form and paying the additional fees for such additional User subscriptions, prorated for the portion of that Subscription Term remaining at the time the Subscriptions are added and (iii) the added User subscriptions shall terminate on the same date as the underlying subscriptions.<br> ",All,false,3.0,"#N/A",Approved,"#N/A"
+43a80b38-036f-49f3-a503-beb7e357434a,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p> </p>
+
+<p>IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.</p>
+
+<p>TEST</p>
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
+4a30efa9-292f-4432-9a5c-2c0ba762e19b,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.<br><br>IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.<br><br>BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Approved,"#N/A"
+5195cc14-8656-4d61-bc09-3e5f7da2a768,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p> </p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br>gdasgdhasd",All,false,0.9,"#N/A",Draft,"#N/A"
+59790f54-9576-4742-ba90-0abd576e9dc5,true,"#N/A","<p><b>DEFINITIONS</b></p><p>&quot;Affiliate” means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity. &quot;Control,&quot; for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.</p><p><br></p><p>“Agreement” means this Master Subscription Agreement.</p><p><br></p><p>“Documentation” means Our online help and training materials for the Services accessible viaOur portals as updated from time to time.</p><p><br></p><p>“Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.</p><p><br></p><p>&quot;Order Form&quot; means the ordering documents for purchases hereunder, including addenda thereto, that are entered into between You and Us from time to time. By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto. Order Forms shall be deemed incorporated herein by reference.</p><p><br></p><p>&quot;Purchased Services&quot; means Services that You or Your Affiliates purchase under an Order Form, as distinguished from those provided pursuant to a free trial.</p><p><br></p><p>&quot;Services&quot; means the online, Web-based applications and platform provided by Us via or other designated websites as described in the Documentation, that are ordered by You or Your Affiliates as part of a free trial or under an Order Form, including any associated offline components but excluding Third-Party Applications.</p><p><br></p><p>“Subscription Term” means the period of time from the start date to the end date specified in each Order Form for each subscription purchased thereunder. Each renewal of a subscription, whether automatic or in writing, shall constitute a new Subscription Term.</p><p><br></p><p>&quot;Third-Party Applications&quot; means online, Web-based applications and offline software products that are provided by third parties but may be configured to interoperate with the Services.</p><p><br></p><p>&quot;Users&quot; means individuals who are authorized by You to use the Services, for whom subscriptions to the Services have been purchased, and who have been supplied user identifications and passwords by You. Users may include but are not limited to Your employees, consultants, contractors, and agents.</p><p><br></p><p>&quot;We&quot;, &quot;Us&quot;, or &quot;Our&quot; means {!template.SBQQ__CompanyName__c}.</p><p><br></p><p>&quot;You&quot; or &quot;Your&quot; means the company or other legal entity for which You are accepting this Agreement, and Affiliates of that company or entity.</p><p><br></p>",All,false,1.0,"#N/A",Approved,"#N/A"
+5b9b6467-3768-4405-be34-bf56ebc9a004,true,"#N/A","<p><b>PURCHASED SERVICES</b></p>
+
+<p><b>Provision of Purchased Services.</b> We shall make the Purchased Services available to You pursuant to this Agreement and the relevant Order Forms during each Subscription Term and your timely payment of all applicable fees. You agree that Your purchases hereunder are neither contingent on the delivery of any future functionality or features nor dependent on any oral or written public comments made by Us regarding future functionality or features.</p>
+
+<p>Don&#39;t ride the purple pig.  Warning!</p>
+
+<p> </p>",All,false,2.0,"#N/A",Draft,"#N/A"
+68de7b53-0281-4486-b2ae-ad21f2fe6a4c,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p><strong>this is a test</strong></p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
+6c3c986e-29bd-4566-8557-a87a7e5387be,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p> </p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+
+<p>BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.</p>
+
+<p> </p>
+
+<p>MODIFY<br> </p>",All,false,0.9,"#N/A",Draft,"#N/A"
+78e0c8b8-a9df-4e30-8d0d-679d0a914ffa,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p> </p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+
+<p>BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.</p>
+
+<p> </p>
+
+<p>This is a new clause<br> </p>",All,false,0.9,"#N/A",Draft,"#N/A"
+9cbe4fd2-2038-4d00-b2a1-3b8381e68f60,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p>EXAMPLE</p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
+9e0fe022-97bc-4e1b-833f-2c160eabf997,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p> </p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES. change
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
+b1661a8f-19ff-4699-a9a8-09286abc6404,true,"#N/A","<p><b>User Subscriptions.</b> Unless otherwise specified in the applicable Order Form, (i) Purchased Services are purchased as User subscriptions and may be accessed by no more than the specified number of Users, (ii) additional User subscriptions may be purchased during the Subscription Term by signing an additional Order Form and paying the additional fees for such additional User subscriptions, prorated for the portion of that Subscription Term remaining at the time the Subscriptions are added and (iii) the added User subscriptions shall terminate on the same date as the underlying subscriptions.<br> nn</p>
+
+<p> </p>",All,false,3.0,"#N/A",Draft,"#N/A"
+bbce6504-8c97-4368-920a-cf627f5e9c58,true,"#N/A","<p><b>DEFINITIONS</b><br>&quot;Affiliate” means any entity which directly or indirectly controls, is controlled by, or is under common control with the subject entity. &quot;Control,&quot; for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.<br><br>“Agreement” means this Master Subscription Agreement.<br><br>“Documentation” means Our online help and training materials for the Services accessible viaOur portals as updated from time to time.<br><br>“Malicious Code” means code, files, scripts, agents or programs intended to do harm, including, for example, viruses, worms, time bombs and Trojan horses.<br><br>&quot;Order Form&quot; means the ordering documents for purchases hereunder, including addenda thereto, that are entered into between You and Us from time to time. By entering into an Order Form hereunder, an Affiliate agrees to be bound by the terms of this Agreement as if it were an original party hereto. Order Forms shall be deemed incorporated herein by reference.<br><br>&quot;Purchased Services&quot; means Services that You or Your Affiliates purchase under an Order Form, as distinguished from those provided pursuant to a free trial.<br><br>&quot;Services&quot; means the online, Web-based applications and platform provided by Us via or other designated websites as described in the Documentation, that are ordered by You or Your Affiliates as part of a free trial or under an Order Form, including any associated offline components but excluding Third-Party Applications.<br><br>“Subscription Term” means the period of time from the start date to the end date specified in each Order Form for each subscription purchased thereunder. Each renewal of a subscription, whether automatic or in writing, shall constitute a new Subscription Term.<br><br>&quot;Third-Party Applications&quot; means online, Web-based applications and offline software products that are provided by third parties but may be configured to interoperate with the Services.<br><br>&quot;Users&quot; means individuals who are authorized by You to use the Services, for whom subscriptions to the Services have been purchased, and who have been supplied user identifications and passwords by You. Users may include but are not limited to Your employees, consultants, contractors, and agents.<br><br>&quot;We&quot;, &quot;Us&quot;, or &quot;Our&quot; means {!template.SBQQ__CompanyName__c}.<br><br>&quot;You&quot; or &quot;Your&quot; means the company or other legal entity for which You are accepting this Agreement, and Affiliates of that company or entity.</p>
+
+<p><strong>&quot;Me&quot; MEANS THE YOURS TRULY, THE GREATEST SALES REP EVAR!!!</strong><br> </p>",All,false,1.0,"#N/A",Draft,"#N/A"
+c6c0a034-006c-4dfa-9685-993720e0b098,true,"#N/A","<b>FEES AND PAYMENT FOR SERVICES</b><br><b>User Fees.</b> You shall pay all fees specified in all Order Forms hereunder. Except as otherwise specified herein or in an Order Form, (a) fees are quoted and payable in United States dollars, (b) fees are based on services purchased and not actual usage, (c) payment obligations are non-cancellable and fees paid are non-refundable, and (d) the number of User subscriptions purchased cannot be decreased during the relevant subscription term stated on the Order Form. User subscription fees are based on annual periods that begin on the subscription start date and each year anniversary thereof; fees for User subscriptions added in the middle of a yearly period will be prorated based on the month in which they are added and thereafter will be charge for the full yearly periods remaining in the subscription term.<br> <br><b>Invoicing and Payment.</b> Fees will be invoiced in advance and otherwise in accordance with the relevant Order Form. Unless otherwise stated in the Order Form, fees are due {!quote.SBQQ__PaymentTerms__c} days from the invoice date. You are responsible for maintaining complete and accurate billing and contact information with Us, as well as for payment of any fees or charges associated with Your payment, other than those charged by Our bank.<br> <br><b>Overdue Charges.</b> If any fees are not received from You by the due date, then at Our discretion, (a) such fees may accrue late interest at the rate of 1.5% of the outstanding balance per month, or the maximum rate permitted by law, whichever is lower, from the date such payment was due until the date paid and/or (b) We may condition future subscriptions on payment terms shorter than those specified in Section 4.2 (Invoicing and Payment).<br> <br><b>Suspension of Services.</b> If any amount owing by You under this Agreement for the Services is 30 or more days overdue, We may, without limiting Our other rights and remedies, suspend Your access to the Services until such amounts are paid in full.<br> <br><b>Payment Disputes.</b> We shall not exercise Our rights under Section 4.3 (Overdue Charges) or 4.4 (Suspension of Services) until after 60 days from the payment due date if the applicable fees are under reasonable and good-faith dispute and You are cooperating diligently to resolve the dispute.<br> <br><b>Taxes.</b> Unless otherwise stated, Our fees do not include any taxes, levies, duties, or similar governmental assessments of any nature, including but not limited to value-added, sales, use, or withholding taxes, assessable by any local, state, provincial, federal, or foreign jurisdiction (collectively, &quot;Taxes&quot;). You are responsible for paying all Taxes associated with Your purchases hereunder. If We have the legal obligation to pay or collect Taxes for which You are responsible under this Section 4.6, the appropriate amount shall be invoiced to and paid by You, unless You provide Us with a valid tax exemption certificate authorized by the appropriate taxing authority. For clarity, We are solely responsible for taxes assessable against Us based on Our income, property, and employees.<br><br> ",All,false,2.0,"#N/A",Approved,"#N/A"
+c7c186cf-8e9f-429b-8630-08f886a30a52,true,"#N/A","<p><b>PURCHASED SERVICES</b></p>
+
+<p><b>Provision of Purchased Services.</b> We shall make the Purchased Services available to You pursuant to this Agreement and the relevant Order Forms during each Subscription Term and your timely payment of all applicable fees. You agree that Your purchases hereunder are neither contingent on the delivery of any future functionality or features nor dependent on any oral or written public comments made by Us regarding future functionality or features.</p>
+
+<p>nnn</p>",All,false,2.0,"#N/A",Draft,"#N/A"
+cd43d5ac-4010-4085-9bd4-42644e937098,true,"#N/A",<b>Complete Threat Solution Functionality -</b> The Complete Threat Solution is provided by the copyright holders and contributors &quot;AS IS&quot;.<br> ,All,false,3.02,"#N/A",Approved,"#N/A"
+ce4d9c07-7f6b-454c-9002-49929d5900e7,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p>this is a test</p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
+d17c1e0f-48a6-4657-b70f-8152f0137b73,true,"#N/A","<p>CHANGED!!!</p>
+
+<p>THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.</p>
+
+<p> </p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
+dd2944ff-4f4b-4f0b-8205-bfeb25ce2593,true,"#N/A","<b>LIMITATION OF LIABILITY<br>Limitation of Liability.</b> EXCEPT FOR A PARTY’S INDEMNIFICATION OBLIGATIONS UNDER SECTION 9 (MUTUAL INDEMNIFICATION), IN NO EVENT SHALL EITHER PARTY&#39;S AGGREGATE LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, EXCEED THE TOTAL AMOUNT PAID BY YOU HEREUNDER OR, WITH RESPECT TO ANY SINGLE INCIDENT THE AMOUNT PAID BY YOU HEREUNDER IN THE 12 MONTHS PRECEDING THE INCIDENT.<br><br><b>Exclusion of Consequential and Related Damages.</b> IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR REVENUES OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, COVER, OR PUNITIVE DAMAGES HOWEVER CAUSED, WHETHER IN CONTRACT, TORT, OR UNDER ANY OTHER THEORY OF LIABILITY, AND WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING DISCLAIMER SHALL NOT APPLY TO THE EXTENT PROHIBITED BY APPLICABLE LAW.<br> ",All,false,5.0,"#N/A",Approved,"#N/A"
+ec73cede-1d7c-4719-9119-5e0f29aec24a,true,"#N/A","THIS MASTER SUBSCRIPTION AGREEMENT (“AGREEMENT”) GOVERNS YOUR USE OF OUR SERVICES, AS FURTHER DEFINED BELOW.
+<p> </p>
+IF YOU PURCHASE SUBSCRIPTIONS TO OUR APPLICATIONS AND/OR RELATED SERVICES, THIS AGREEMENT WILL ALSO GOVERN YOUR PURCHASE AND ACQUISITION OF SUCH SUBSCRIPTIONS AND/OR RELATED SERVICES AND YOUR ONGOING USE OF THOSE SUBSCRIPTIONS AND THE SERVICES.
+
+<p> </p>
+
+<p>TEST TEST TEST</p>
+
+<p> </p>
+BY ACCEPTING THIS AGREEMENT, YOU AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU ARE ENTERING INTO THIS AGREEMENT ON BEHALF OF A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT THAT YOU HAVE THE AUTHORITY TO BIND SUCH ENTITY AND ITS AFFILIATES TO THESE TERMS AND CONDITIONS, IN WHICH CASE THE TERMS &quot;YOU&quot; OR &quot;YOUR&quot; SHALL REFER TO SUCH ENTITY AND ITS AFFILIATES. IF YOU DO NOT HAVE SUCH AUTHORITY, OR IF YOU DO NOT AGREE WITH THESE TERMS AND CONDITIONS, YOU MUST NOT ACCEPT THIS AGREEMENT AND MAY NOT USE THE SERVICES.<br> ",All,false,0.9,"#N/A",Draft,"#N/A"
