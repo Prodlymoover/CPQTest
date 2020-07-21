@@ -1,0 +1,15 @@
+"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ConfiguratorEvaluationEvent__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupObject__c","SBQQ__Product__c","SBQQ__TargetObject__c"
+2011f95c-9d1c-417d-a761-0473a7b7db98,Billing Frequency Approval,true,"#N/A",All,"#N/A",On Initialization;On Calculate,20.0,"#N/A","#N/A",Calculator
+3a99d2c3-210d-49a2-8ecb-e57bae4a1cc6,Set Professional Services Role Rates,true,"#N/A",All,"#N/A",On Calculate,"#N/A",Professional_Services_Rate__c,"#N/A",Calculator
+6b7d3190-b693-4678-ba5e-3035bd9fd5bc,Set VirusScan Device Count,true,111 AND (222 OR 333 OR 444),Custom,Save,"#N/A",1.0,"#N/A","#N/A",Configurator
+7465bd1c-b759-404d-a9ab-dfbca2c05905,Lookup Approval Level 1 [Discount],true,"#N/A",All,"#N/A",On Initialization,50.0,Approval_Threshold__c,"#N/A",Calculator
+83eb5710-5987-4677-a8db-2d99bec5e621,Set True Discretionary Discount %,false,"#N/A",All,"#N/A",After Calculate,98.0,"#N/A","#N/A",Calculator
+8bc34097-d8d0-4c2b-b423-656ba77c7222,Set Quantity for VirusScan Mac,false,"#N/A",All,Edit,Before Calculate,"#N/A","#N/A","#N/A",Configurator
+9e1c50d9-9e4d-4d6f-8851-351cded2b889,Lookup Approval Level 2 [Discount],true,"#N/A",All,"#N/A",On Initialization,51.0,Approval_Threshold__c,"#N/A",Calculator
+a080fdf0-fbd8-4811-8fde-c960bfb459a9,Config - Set Device Count,false,"#N/A",All,Edit,"#N/A",99.0,"#N/A","#N/A",Configurator
+a61febde-9a5d-46fc-97ac-b18f76d24306,Auto Renewal Uplift of 3%,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
+ae609bfc-ab8a-41d3-a388-9e09a2e1a582,Set VirusScan Device Count (DEP),false,111 AND (222 OR 333 OR 444),Custom,"#N/A",On Initialization,2.0,"#N/A","#N/A",Calculator
+c92a172b-2379-4ea2-bdba-f5a0d1882e95,Fake Price Rule - Delete Me,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator
+dff5cac1-5b8a-4d82-b64f-79d3d8e07e94,Lookup Approval Level [Discount],true,"#N/A",All,"#N/A",On Initialization;Before Calculate;On Calculate;After Calculate,99.0,Approval_Threshold__c,"#N/A",Calculator
+e0239490-2c9f-4259-87d1-74d99ba82f63,Lookup Approval Level 3 [Discount],true,"#N/A",All,"#N/A",On Initialization,53.0,Approval_Threshold__c,"#N/A",Calculator
+e0ed7094-a5a4-4f14-8449-f25dd5516a1c,Calculate Tax at Order/Invoice,true,"#N/A",All,"#N/A",Before Calculate,"#N/A","#N/A","#N/A",Calculator

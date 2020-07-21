@@ -1,0 +1,13 @@
+"Guid","Name","SBQQ__AppliedImmediately__c","SBQQ__ApplyToProductOptions__c","SBQQ__AutoSelect__c","SBQQ__ColumnOrder__c","SBQQ__DefaultField__c","SBQQ__DefaultObject__c","SBQQ__DisplayOrder__c","SBQQ__Feature__c","SBQQ__HiddenValues__c","SBQQ__Hidden__c","SBQQ__Position__c","SBQQ__Product__c","SBQQ__Required__c","SBQQ__ShownValues__c","SBQQ__TargetField__c"
+0e01cb57-84b6-479a-9e4a-e80a3114ed2a,Storage,true,false,false,2,"#N/A","#N/A",3.0,58e4a6b9-bbd6-489b-b9f1-55cf4a66c79f,"#N/A",false,Top,e7197e3a-928b-4450-8a63-5d55aaed01bc,false,"#N/A",Storage__c
+11ca77a1-deea-43c1-84c9-2e46d17e6326,Resource Location,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Resource_Location__c
+22511ac6-413d-47f5-bbe2-240c98d812ac,Mac,true,false,false,2,"#N/A","#N/A",1.0,e68d2649-0e8b-49b6-90c4-532c8d2b1677,"#N/A",false,Top,ed940e96-1a76-4b23-9a57-efd78f193e26,false,"#N/A",Mac__c
+22e8ceda-bc7a-495b-b852-bb4fe729e002,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,e68d2649-0e8b-49b6-90c4-532c8d2b1677,"#N/A",false,Top,ed940e96-1a76-4b23-9a57-efd78f193e26,true,"#N/A",Protected_Devices__c
+26538c42-f732-4b7d-af3e-7ccb72baac04,Linux,true,false,false,2,"#N/A","#N/A",2.0,e68d2649-0e8b-49b6-90c4-532c8d2b1677,"#N/A",false,Top,ed940e96-1a76-4b23-9a57-efd78f193e26,false,"#N/A",Linux__c
+3b18f823-fc40-45c0-8165-4e34931f302e,Memory Configuration,true,false,false,1,"#N/A","#N/A",1.0,19262f7d-8372-4818-93ad-c35c031b43cf,"#N/A",false,Top,1d86f92a-f7dc-4a3f-bab1-05bb841bc5ff,false,"#N/A",Memory_Config__c
+5593f100-5f2a-4dc6-8a6b-a05b3e2dcf43,Storage,true,false,false,2,"#N/A","#N/A",3.0,e68d2649-0e8b-49b6-90c4-532c8d2b1677,"#N/A",false,Top,ed940e96-1a76-4b23-9a57-efd78f193e26,false,"#N/A",Storage__c
+645a8e5b-b3a9-46ff-b7e0-7938ce8ca0d7,Linux,true,false,false,2,"#N/A","#N/A",2.0,58e4a6b9-bbd6-489b-b9f1-55cf4a66c79f,"#N/A",false,Top,e7197e3a-928b-4450-8a63-5d55aaed01bc,false,"#N/A",Linux__c
+811e7707-dc76-4595-8dda-f824a19f98df,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,58e4a6b9-bbd6-489b-b9f1-55cf4a66c79f,"#N/A",false,Top,e7197e3a-928b-4450-8a63-5d55aaed01bc,true,"#N/A",Protected_Devices__c
+adcce082-e625-406f-9323-4b73c72b71af,Mac,true,false,false,2,"#N/A","#N/A",1.0,58e4a6b9-bbd6-489b-b9f1-55cf4a66c79f,"#N/A",false,Top,e7197e3a-928b-4450-8a63-5d55aaed01bc,false,"#N/A",Mac__c
+c789e5c5-1199-42cc-9586-16a5881a7872,Engineering Options,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Engineering_Options__c
+e43a326e-59c4-40df-808b-56d30412fc0b,Server Configuration,true,false,false,1,"#N/A","#N/A",1.0,"#N/A","#N/A",false,Top,1d86f92a-f7dc-4a3f-bab1-05bb841bc5ff,true,"#N/A",Configuration__c
