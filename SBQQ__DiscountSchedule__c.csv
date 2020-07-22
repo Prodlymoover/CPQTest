@@ -3,7 +3,23 @@
 07c4a9ae-4b8e-4df1-a902-3bad265dd250,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Slab,false,false
 0d9d3c4c-14f9-47b9-a09e-5663021721af,Tooless Cable Management,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
 10341d69-80d2-4508-9cc3-a539452a478e,Hardware Discount Schedule,"#N/A","#N/A",true,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+21f245f7-a12e-4be7-bf41-fc0a704b87ec,Network Penetration Tests,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Slab,false,false
+274506d7-7679-43b5-8155-798e96120b20,Hardware Discount Schedule,"#N/A","#N/A",true,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+3817a548-3ead-4e87-96bb-57ef2b58ba03,SSO User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+3b87c6a5-2599-4633-9a37-e4df6d0193bc,Tooless Cable Management,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
 3bfcb9e6-d6d3-4fc0-a92b-78c59778c052,SSO User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+3db02268-cb3b-4ff5-8182-b2b8e215f78a,Tooless Cable Management,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+40b9dbf2-c837-4fc4-9b8b-e0b980ed6e4d,SSO Reporting User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+62bbfc6d-1d21-49e7-8a70-953116fe16ec,VSphere,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+6772a183-496a-42d4-ac99-bd08153c1040,Term Based Tiers,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+71b20117-d245-4082-8e64-8ab7b63c8441,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Slab,false,false
+7564666e-65f7-4e6f-85b0-dec16a551018,SSO Reporting User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+89852d9c-7590-400e-97ef-5f3ce0f4065f,Hardware Discount Schedule,"#N/A","#N/A",true,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+a1a911ed-d5dc-4aa9-8ac2-de3933b29932,Term Based Tiers,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+ab28ce69-95fa-4278-9971-58b1ea329fa1,SSO User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
 b910cb9c-0a7d-478d-9c9e-719c52a91fe4,Network Penetration Tests,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Slab,false,false
+bfe0c5ec-8ad7-4918-b929-94b45f608fed,Network Penetration Tests,Quote,"#N/A",false,false,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Slab,false,false
+c90523a3-8040-473d-ad40-4311f5565036,Virus Volume Tiers,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Slab,false,false
 d1870fd2-0948-4cf2-b421-231757ea1fdc,VSphere,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
+f56711ce-6ad9-4d77-86e0-671f365087b7,VSphere,"#N/A","#N/A",false,false,"#N/A",Percent,"#N/A",false,"#N/A",2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false
 f8f8f157-5cfd-4739-aad9-39a3145832f5,SSO Reporting User Discount Schedule,"#N/A","#N/A",true,true,"#N/A",Percent,"#N/A",false,All,2.0,"#N/A","#N/A",Quantity,"#N/A","#N/A",Range,false,false

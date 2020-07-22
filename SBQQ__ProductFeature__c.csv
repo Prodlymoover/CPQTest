@@ -1,45 +1,133 @@
 "Guid","Name","SBQQ__Category__c","SBQQ__ConfigurationFieldSet__c","SBQQ__ConfiguredSKU__c","SBQQ__DiscountSchedule__c","SBQQ__DynamicProductFilterFieldSet__c","SBQQ__DynamicProductLookupFieldSet__c","SBQQ__MaxOptionCount__c","SBQQ__MinOptionCount__c","SBQQ__Number__c","SBQQ__OptionSelectionMethod__c"
 0217b5a1-0bc6-4503-87c8-5df1289652f2,Engineering Resources,"#N/A","#N/A",290f7c93-331d-4500-b618-3971801d050c,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+05fd3850-bdcb-41bd-a0cb-60261d653803,Security Information & Event Management,Advanced,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",0.0,30.0,Dynamic
+063626e8-8757-4a65-bbc5-55ea0d495443,Air Distribution,Accessories,"#N/A",d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A",1.0,1.0,50.0,Click
+0e8e018d-d9c7-472d-a57d-2092e2ce0aed,Power Cables,Power,PowerCables,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",0.0,40.0,Click
+0ea31a15-08c1-4b6f-abd5-7ad5db3cf891,Service,Service & Support,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A",1.0,0.0,70.0,"#N/A"
+0f5d3547-a25d-4784-b171-f80c9d8c0eb4,Modules,"#N/A","#N/A",02448bcb-69fc-4959-9581-1354734c2073,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+1060eabf-e3ed-4828-84ef-50885a437ee7,Service,Service & Support,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A",1.0,0.0,70.0,"#N/A"
+11168427-7802-4376-bb49-46bffbb60c0f,VirusScan,Atomic Platform,OptionConfigurationNoQuantity,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",0.0,5.0,"#N/A"
+1243a794-464f-4ba7-9a98-e1d6dbcf8a8f,Solution Architecture,"#N/A","#N/A",290f7c93-331d-4500-b618-3971801d050c,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+13a398a9-09fa-4b92-aa21-3ca53dcfdaf9,Generalists,"#N/A","#N/A",fbc7c106-1656-4ada-b118-d6120c440f4a,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+1463f835-8700-405a-98d9-ad6c6c219afe,Support,Service & Support,"#N/A",44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A",1.0,0.0,80.0,"#N/A"
+1566e7af-8cd1-43e6-9f9d-048ee91c72fd,Hard Drive,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,30.0,Click
+194ca4a8-60dc-4efb-9739-80a9c0061b2d,Power Distribution Units,Power,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",3.0,0.0,30.0,Click
+19cab113-bcce-433a-b658-f8583812219a,Server Security,On Premise,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",0.0,50.0,"#N/A"
+1a86d173-13db-41ed-a765-70de37bdd25e,Stabilization,Accessories,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,70.0,Click
 1bf73ddb-d5de-41b7-9da7-07c209fc5ad2,Support,Service & Support,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A",1.0,0.0,80.0,"#N/A"
 1c17a4c3-ffd5-44a8-bdc3-b616c22e7237,Data Protection,Advanced,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A",1.0,0.0,20.0,"#N/A"
+1d660bad-ab01-4b19-b25c-0e4d7c213072,Engineering Resources,"#N/A","#N/A",c8938f59-20ee-4b3c-a9bc-11e225847f22,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
 1dfe02ff-87d3-4741-b66a-b9ba5e4432ea,Power Distribution Units,Power,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",3.0,0.0,30.0,Click
+226bdadc-483f-4bfd-b7a6-4447c79f1ca5,Specialists,"#N/A","#N/A",fbc7c106-1656-4ada-b118-d6120c440f4a,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+24120071-3804-478a-9de0-817c73742deb,Project Management,"#N/A","#N/A",290f7c93-331d-4500-b618-3971801d050c,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+25256fda-b2ac-40ec-8645-d966905a6efe,Hardware Support,Services,Services,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,120.0,Click
+2686966a-0300-49ee-ba49-a27620091e86,Maintenance,On Premise,Maintenance,7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,60.0,"#N/A"
 26b077a0-806b-437b-a31f-40b758d6dd9b,VirusScan,Atomic Platform,OptionConfigurationNoQuantity,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",0.0,5.0,"#N/A"
 27ad1a40-0a16-4ae6-b6ad-609d1f858ea7,Memory Capacity,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,20.0,Click
+2b19d6fe-703d-44ae-b370-f4ad914259d9,Engineering Resources,"#N/A","#N/A",290f7c93-331d-4500-b618-3971801d050c,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+2e3c1654-efd8-4305-86ee-a7fb1b162d6d,Cable Managment,Accessories,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,60.0,Click
+31f43445-03df-46c9-b7e1-8d62d9242383,Data Protection,Advanced,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A",1.0,0.0,20.0,"#N/A"
+3825387b-e8b5-4626-8a38-41a3859bd900,Processor,"#N/A",OptionConfiguration,95dbfb28-97ca-44c1-b16b-6f471b0fbf02,"#N/A","#N/A","#N/A",1.0,1.0,10.0,Click
+386d5eea-df44-4551-8edc-d1bdb615c653,Security Information & Event Management,Advanced,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",0.0,30.0,Dynamic
+3b7ad7c1-017a-4f43-8e50-3d372578b083,Service,Service & Support,"#N/A",8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A",1.0,0.0,70.0,"#N/A"
 3d85883d-2921-460c-bbb5-9cf8a77c6284,Endpoint Protection,Atomic Platform,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+3ddad46a-e36c-4445-94b6-3ab66a642f86,Memory Capacity,"#N/A",OptionConfiguration,95dbfb28-97ca-44c1-b16b-6f471b0fbf02,"#N/A","#N/A","#N/A",1.0,1.0,20.0,Click
+41133e6e-30cc-4833-902a-3c4db2162b7c,Support,Service & Support,"#N/A",8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A",1.0,0.0,80.0,"#N/A"
 42d53576-d5bb-4ab5-8608-f7399415318b,Slot Configuration,Case,Slot,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",1.0,20.0,Add
 47c9158f-0dd1-4808-94bf-20594d776e43,Air Distribution,Accessories,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,50.0,Click
 483e7d1d-965b-4dfc-aff1-99fd3a800250,Cable Managment,Accessories,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,60.0,Click
 490a33e3-f45f-4a7b-a1de-8b9c50d7fc5d,Operating System,Software,NoQuantity,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,80.0,Click
 499e038c-58a1-4bc9-b12f-4b2418712144,Support,Service & Support,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A",1.0,0.0,80.0,"#N/A"
+4c7010de-17bc-4b27-a1a6-396d6993b5a9,Project Management,"#N/A","#N/A",c8938f59-20ee-4b3c-a9bc-11e225847f22,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
 4c7da1f2-86bb-4582-853f-556ac1a9634d,Server Security,On Premise,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",0.0,50.0,"#N/A"
+556c41f3-03b3-4e55-bc0b-df1c7f46dd75,Service,Service & Support,"#N/A",44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A",1.0,0.0,70.0,"#N/A"
+595328a5-91d6-45c6-8af2-09f69c77735d,Slot Configuration,Case,Slot,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",1.0,20.0,Add
+5cd6f297-0176-483c-9276-aeeaeff3aa2e,Module Licensing,Atomic Platform,OptionConfigurationNoQuantity,44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A","#N/A",1.0,1.0,"#N/A"
+619d9057-2174-436f-b2cd-78bf3f8bb548,Services,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A",1.0,1.0,40.0,"#N/A"
 668cccf1-0b08-4be8-a7bf-1c9d124f13f5,Network Adapter,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,40.0,Click
 6ad7aee3-0c1a-4834-843c-ecd231fa4ce2,Security Information & Event Management,Advanced,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",0.0,30.0,Dynamic
+6aeb5b01-6650-46c1-89ca-5e6b3c23c196,Air Distribution,Accessories,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,50.0,Click
 6cac37af-3c6d-41c2-b8d3-d6fcbbd84aa5,Stabilization,Accessories,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,70.0,Click
 71d16c25-d2f6-422a-aa2e-17ba04cd7ff8,Additional Software,Software,NoQuantity,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,90.0,Click
 71f859fc-01a5-4f56-a91a-40952bba53cc,Engineering Resources,"#N/A","#N/A",0b36f063-3e63-4b8b-92ef-10f5bd01e414,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+723e1566-e367-4afa-8274-14f587849f5b,Add-Ons,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+7421e5b2-10e6-4d72-8828-2cbf74b60fe0,Module Licensing,Atomic Platform,OptionConfigurationNoQuantity,7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",1.0,1.0,"#N/A"
+742a9ff6-7ee4-4392-a541-372b1659499a,Server Security,On Premise,"#N/A",8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A","#N/A",0.0,50.0,"#N/A"
+771df012-a643-47fe-97c5-99dc8eaa9044,Memory Capacity,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,20.0,Click
 7b49f616-9ce5-437b-b95f-7fdca4d3d102,Power Cables,Power,PowerCables,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,40.0,Click
+7f89c335-cd38-4503-a5ff-a9f71657d058,Training,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+8116b26d-ddc2-45f1-a558-dd309b0cf79a,VirusScan,Atomic Platform,OptionConfigurationNoQuantity,8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A","#N/A",0.0,5.0,"#N/A"
 821f2ac3-cd70-4bb9-9358-4c965b983ac1,Hard Drive,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,30.0,Click
+82baadc8-9e01-4f14-80c9-73b4efa68f8a,Security Information & Event Management,Advanced,"#N/A",44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",0.0,30.0,Dynamic
+85681b7f-bde5-46b5-8f64-e2398b53ea26,Security Management,Atomic Platform,OptionConfigurationNoQuantity,8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A","#N/A",1.0,1.0,"#N/A"
 85a199c7-181c-4245-8387-6e3c3023cfb3,Solution Architecture,"#N/A","#N/A",290f7c93-331d-4500-b618-3971801d050c,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+8a2743c3-e041-4896-9dbc-7c121e8fedad,Hard Drive,"#N/A",OptionConfiguration,95dbfb28-97ca-44c1-b16b-6f471b0fbf02,"#N/A","#N/A","#N/A",1.0,1.0,30.0,Click
 8c2f72d4-7cd4-40b0-876b-33d2bb22e2c4,Data Protection,Advanced,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A",1.0,0.0,20.0,"#N/A"
 8c44a50b-6b2c-475f-84b6-95b3efe8575e,Processor,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,10.0,Click
 8cbdf832-3bcc-4438-8859-adf726e553e6,Add-Ons,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+8d67479e-71ed-49dd-a4cb-3a7c833a9035,Services,"#N/A","#N/A",9fc41f78-ec46-4d9c-bce6-827947e4ea66,"#N/A","#N/A","#N/A",1.0,1.0,40.0,"#N/A"
 8dcbe5bc-b27d-41bc-9c96-cc2b390f0404,Installation,Services,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,110.0,Click
+8eef290d-e683-428e-8d67-e7f6f40bbac2,Power Cables,Power,PowerCables,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,40.0,Click
 8eefad08-07ae-413a-939d-6a69c95376a6,Security Management,Atomic Platform,OptionConfigurationNoQuantity,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",1.0,1.0,"#N/A"
+8efd4f01-4f8d-4b0c-b376-29b6c72e07c6,Security Management,Atomic Platform,OptionConfigurationNoQuantity,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",1.0,1.0,"#N/A"
+9366a347-b44c-41b2-9d3f-12bd39b8d081,Installation,Services,"#N/A",d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",0.0,110.0,Click
+9514d8e3-e776-4f87-a4a1-33028615d48e,Data Protection,Advanced,"#N/A",44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A",1.0,0.0,20.0,"#N/A"
+96c0ff50-9865-4f50-905b-244b5e32e9ae,Endpoint Protection,Atomic Platform,"#N/A",44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+96dfbf3a-2a7a-47d5-8908-c51ebca43cd2,Stabilization,Accessories,"#N/A",d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",0.0,70.0,Click
+9846e341-0c93-4a24-8f53-e6a2887d9c37,Support,Service & Support,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A",1.0,0.0,80.0,"#N/A"
+9896b04b-2748-40eb-a939-aca5b52edba8,Maintenance,On Premise,Maintenance,44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A","#N/A",0.0,60.0,"#N/A"
+9a132915-0b9d-48fb-bf8d-7d6b5a04bcc2,Solution Architecture,"#N/A","#N/A",c8938f59-20ee-4b3c-a9bc-11e225847f22,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+9b428702-0b44-473d-aa0c-0232c76a0981,Slot Configuration,Case,Slot,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",1.0,20.0,Add
+9b57bd71-7c3f-49c4-a345-8c487a931d35,Installation,Services,"#N/A",becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,110.0,Click
 a005ea1e-2e82-42a9-b2af-b9a429e69254,VirusScan,Advanced,OptionConfigurationNoQuantity,7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,5.0,"#N/A"
+a1e344b6-8277-4e5d-92a0-f67cb51031d9,Additional Software,Software,NoQuantity,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,90.0,Click
+a5c1fca7-61ec-4a4b-b718-86cab688a2cd,Data Protection,Advanced,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A",1.0,0.0,20.0,"#N/A"
+a6b88d12-8100-4ec0-8aca-d99b254dfb7e,Processor,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,10.0,Click
+aabf0b05-f78b-4bc1-8300-dd6e66cc80cf,Base,Case,Base,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,10.0,Click
 aac1d918-db0c-48e8-ab18-90f2385f1ee1,Endpoint Protection,Atomic Platform,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+aade5b8f-ea0a-4c5d-87b9-7c52ee29bbff,Training,"#N/A","#N/A",9fc41f78-ec46-4d9c-bce6-827947e4ea66,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
 acb1f51e-1894-4531-acd7-28bd63e8b268,Base,Case,Base,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,10.0,Click
+aef925dc-e34d-40dd-af60-74dd48d3a898,Support,Service & Support,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A",1.0,0.0,80.0,"#N/A"
+b3dd92cb-c3d1-46a8-bba5-5d3192667b2f,Add-Ons,"#N/A","#N/A",9fc41f78-ec46-4d9c-bce6-827947e4ea66,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+b44ad9df-a33c-4e14-8af0-fff6ca49af78,Additional Software,Software,NoQuantity,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",0.0,90.0,Click
+b66e583b-71db-45dd-993a-ad5f421b0958,Endpoint Protection,Atomic Platform,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+b6b3223e-32da-4a21-803a-0270e789adcb,Security Information & Event Management,Advanced,"#N/A",8add0539-54b0-4241-93f1-053e4121546e,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",0.0,30.0,Dynamic
 b756f412-4a7a-41c4-9453-d525824fa3b6,Hardware Support,Services,Services,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,120.0,Click
+be968e34-d0c5-4c30-8c9a-cb29ffca7c5b,Network Adapter,"#N/A",OptionConfiguration,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,"#N/A","#N/A","#N/A",1.0,1.0,40.0,Click
 c2040484-7205-4a6d-8548-99aa3dcf26fe,Project Management,"#N/A","#N/A",290f7c93-331d-4500-b618-3971801d050c,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
 c50122d6-ba8b-450f-a686-cb951ffcddb8,Service,Service & Support,"#N/A",c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,"#N/A","#N/A","#N/A",1.0,0.0,70.0,"#N/A"
+c9d99b61-6699-4658-89f8-2f2da627ccce,Hardware Support,Services,Services,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A",1.0,1.0,120.0,Click
+ca94970a-f246-4e10-aeec-11702bcad424,Software Support,Software,Services,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,100.0,Click
+cc198e82-aa06-47d2-96e4-bec1294d82c3,Operating System,Software,NoQuantity,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A",1.0,1.0,80.0,Click
+cc99a69d-8e98-4316-8ea6-5b67536f8f6c,Cable Managment,Accessories,"#N/A",d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",0.0,60.0,Click
+cd51e43a-8c00-4486-883a-bd00fcdb252c,Server Security,On Premise,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,50.0,"#N/A"
+cdf5d11d-bdf4-48ae-98b9-3961efd816c2,VirusScan,Advanced,OptionConfigurationNoQuantity,44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A","#N/A",0.0,5.0,"#N/A"
+ce325144-4b6c-43f7-bd66-1e1b9bb8d7d0,Licenses,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A","#N/A",1.0,10.0,"#N/A"
+ce62aaaa-ab9b-4a4d-b86e-798337b4bc0b,Software Support,Software,Services,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A","#N/A",0.0,100.0,Click
 d02693c9-3b98-4a90-8342-4433ff60e8a6,Services,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A",1.0,1.0,40.0,"#N/A"
 d0484102-cfc9-4750-ad23-ef5313e03858,Software Support,Software,Services,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A","#N/A",0.0,100.0,Click
+d05a6e3e-30e7-434d-8170-3528d4d8460e,Generalists,"#N/A","#N/A",0b36f063-3e63-4b8b-92ef-10f5bd01e414,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+d4942e5a-52a5-49a0-a56f-e1c13f997ce0,Base,Case,Base,d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A",1.0,1.0,10.0,Click
+d742cc0d-e88b-41c8-854d-b37449ad65a1,Server Security,On Premise,"#N/A",44d6b6be-9789-4bca-ab98-ecff4eb45eee,"#N/A","#N/A","#N/A","#N/A",0.0,50.0,"#N/A"
 d96581cb-dcc6-43b8-bdbc-7c9423cd8791,Modules,"#N/A","#N/A",02448bcb-69fc-4959-9581-1354734c2073,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+db97e251-05d7-4737-85cf-aa78f7020ebf,Modules,"#N/A","#N/A",c586c80b-60aa-4bdf-9f2c-e22c508ecd9b,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+dcf87498-204d-4069-9d9d-43e81a75ad8d,Endpoint Protection,Atomic Platform,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
+dcfaa9e3-d469-4713-92b4-e4e978c0fda8,Power Distribution Units,Power,"#N/A",d848489d-7cfc-45fe-a771-4e5b31b72730,"#N/A","#N/A","#N/A",3.0,0.0,30.0,Click
+dd57081c-1b30-453e-8063-33f0f80e914b,Engineering Resources,"#N/A","#N/A",fbc7c106-1656-4ada-b118-d6120c440f4a,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
 e2655110-bedd-4d8f-b191-be58de4f27d8,Security Information & Event Management,Advanced,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A",ConfiguratorFilter,ConfiguratorLookup,"#N/A",0.0,30.0,Dynamic
+e28d00a8-bd37-49ff-9d3f-ea6560ad15bd,Endpoint Protection,Atomic Platform,"#N/A",8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
 e47f51a0-fbd0-4be2-a3c8-3b2c35d327a3,Server Security,On Premise,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,50.0,"#N/A"
+eebdd250-55e0-412d-982e-15a2bba1213f,Network Adapter,"#N/A",OptionConfiguration,95dbfb28-97ca-44c1-b16b-6f471b0fbf02,"#N/A","#N/A","#N/A",1.0,1.0,40.0,Click
 ef6c827b-e641-4f34-b455-da38249889a8,Training,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
 f142c18c-03ed-4f7f-b2e2-0142e7e819e2,Specialists,"#N/A","#N/A",0b36f063-3e63-4b8b-92ef-10f5bd01e414,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
 f195b0c8-c023-4358-a52e-f5bd844ecae0,Generalists,"#N/A","#N/A",0b36f063-3e63-4b8b-92ef-10f5bd01e414,"#N/A","#N/A","#N/A","#N/A",0.0,10.0,"#N/A"
 f2e8cf8e-4b89-4b68-8e57-7e5398238043,Licenses,"#N/A","#N/A",c7385cf0-ad3c-4379-9240-636b1213593f,"#N/A","#N/A","#N/A","#N/A",1.0,10.0,"#N/A"
 f34924c3-cc4e-4942-83b6-a284210868ee,Maintenance,On Premise,Maintenance,7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,60.0,"#N/A"
 f42575f0-017c-450d-89a4-8fef1c0c1f2a,Module Licensing,Atomic Platform,OptionConfigurationNoQuantity,7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",1.0,1.0,"#N/A"
+f4b31b10-8373-4907-85e7-85ce49eef4ef,VirusScan,Advanced,OptionConfigurationNoQuantity,7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A","#N/A",0.0,5.0,"#N/A"
+f6ec0fb2-2d5a-48f8-8587-398c1df967b2,Operating System,Software,NoQuantity,becfbcf2-6d13-43a5-b01c-d91448aa9d3f,"#N/A","#N/A","#N/A",1.0,1.0,80.0,Click
 f9cc6de0-89ce-4f39-89cb-2f8d6e41fc91,Service,Service & Support,"#N/A",7d8fd83a-3d80-4756-b648-594ccc121da5,"#N/A","#N/A","#N/A",1.0,0.0,70.0,"#N/A"
+fcd03cf8-80fc-4d2f-80ad-c64be58ffeee,Licenses,"#N/A","#N/A",9fc41f78-ec46-4d9c-bce6-827947e4ea66,"#N/A","#N/A","#N/A","#N/A",1.0,10.0,"#N/A"
+fd4b7901-b5fa-4727-ba27-c30219fac11a,Specialists,"#N/A","#N/A",0b36f063-3e63-4b8b-92ef-10f5bd01e414,"#N/A","#N/A","#N/A","#N/A",0.0,20.0,"#N/A"
+fd675539-8102-41b2-acab-3af700519048,Engineering Resources,"#N/A","#N/A",0b36f063-3e63-4b8b-92ef-10f5bd01e414,"#N/A","#N/A","#N/A","#N/A",0.0,30.0,"#N/A"
+ff95e886-f114-46f8-8d02-8ac70c5215c4,Data Protection,Advanced,"#N/A",8add0539-54b0-4241-93f1-053e4121546e,"#N/A","#N/A","#N/A",1.0,0.0,20.0,"#N/A"

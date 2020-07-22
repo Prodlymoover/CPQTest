@@ -1,3 +1,5 @@
 "Guid","Name","SBQQ__Default__c","SBQQ__GuidedOnly__c","SBQQ__ProductAutoSelected__c","SBQQ__ProductConfigurationInitializer__c","SBQQ__ProductSearchExecutor__c","SBQQ__SortOrder__c"
 741a75fe-0d6a-4f07-8911-37affba81cf0,Atomic Guided Selling,true,false,false,"#N/A","#N/A","#N/A"
 9d774cd4-9622-4550-a44c-836e65e90d99,Guided Selling,false,false,false,"#N/A","#N/A","#N/A"
+a7abe83d-9f02-4002-a208-3f0adcdfbb60,Atomic Guided Selling,true,false,false,"#N/A","#N/A","#N/A"
+e9614b4e-ba7c-498e-859d-101577ba1607,Guided Selling,false,false,false,"#N/A","#N/A","#N/A"
