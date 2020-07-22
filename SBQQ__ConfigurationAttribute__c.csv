@@ -2,12 +2,37 @@
 04b09d02-c532-4e35-a7ba-9f32656039f6,Engineering Options,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Engineering_Options__c
 072ffc6c-8966-4780-9552-54dea83477e1,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,true,"#N/A",Protected_Devices__c
 09bfdb72-4563-4535-84c3-eb38b27407d0,Storage,true,false,false,2,"#N/A","#N/A",3.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,false,"#N/A",Storage__c
+0b0eb082-ecd9-4594-bea1-e3b71710cda8,Storage,true,false,false,2,"#N/A","#N/A",3.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,false,"#N/A",Storage__c
+1eb76cbc-8e48-4b52-b6a0-1c93521bc4bb,Resource Location,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Resource_Location__c
+20c2feb8-3ffc-4564-96b9-9e0225a5965a,Engineering Options,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Engineering_Options__c
 265d9084-acfd-4834-a2ed-0aedac80667a,Linux,true,false,false,2,"#N/A","#N/A",2.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,false,"#N/A",Linux__c
+280d3a85-687a-4432-a36f-81d777ba5c51,Mac,true,false,false,2,"#N/A","#N/A",1.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,false,"#N/A",Mac__c
+2af65845-6a00-4fd3-b31b-c547abbe5720,Linux,true,false,false,2,"#N/A","#N/A",2.0,8116b26d-ddc2-45f1-a558-dd309b0cf79a,"#N/A",false,Top,8add0539-54b0-4241-93f1-053e4121546e,false,"#N/A",Linux__c
 2d4bfbc9-7b7b-481a-870b-b88390956f2b,Storage,true,false,false,2,"#N/A","#N/A",3.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,false,"#N/A",Storage__c
 37da24f6-38fd-4ddb-9679-3d955613120b,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,true,"#N/A",Protected_Devices__c
 3d899791-04b6-49c9-b118-f2529c6c89f1,Linux,true,false,false,2,"#N/A","#N/A",2.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,false,"#N/A",Linux__c
+3e15d8aa-35ea-474b-9a31-60a089cdaafb,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,true,"#N/A",Protected_Devices__c
 453a7b92-d018-4411-b36f-ea0b1c861705,Resource Location,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Resource_Location__c
+46d30a9f-4d02-43e0-a367-eb63fb349d51,Mac,true,false,false,2,"#N/A","#N/A",1.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,false,"#N/A",Mac__c
+488ea4ee-28b9-4e26-b147-a312896aa030,Linux,true,false,false,2,"#N/A","#N/A",2.0,cdf5d11d-bdf4-48ae-98b9-3961efd816c2,"#N/A",false,Top,44d6b6be-9789-4bca-ab98-ecff4eb45eee,false,"#N/A",Linux__c
 4f0a611f-efe1-4248-bee9-f4a99cbb912c,Mac,true,false,false,2,"#N/A","#N/A",1.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,false,"#N/A",Mac__c
 4f9c3f34-1864-4669-b4d8-7a56b59aa34b,Memory Configuration,true,false,false,1,"#N/A","#N/A",1.0,27ad1a40-0a16-4ae6-b6ad-609d1f858ea7,"#N/A",false,Top,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,false,"#N/A",Memory_Config__c
+53ecc05d-6cc6-43ea-abb0-5020860a3471,Mac,true,false,false,2,"#N/A","#N/A",1.0,8116b26d-ddc2-45f1-a558-dd309b0cf79a,"#N/A",false,Top,8add0539-54b0-4241-93f1-053e4121546e,false,"#N/A",Mac__c
+5c307ffc-d09c-49f4-a0fd-54f352620e3e,Resource Location,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Resource_Location__c
+5c944dd1-cd2f-4270-a55b-5e418046afbc,Storage,true,false,false,2,"#N/A","#N/A",3.0,8116b26d-ddc2-45f1-a558-dd309b0cf79a,"#N/A",false,Top,8add0539-54b0-4241-93f1-053e4121546e,false,"#N/A",Storage__c
+70f93909-3de0-433b-bd16-39d4b6fd91fd,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,true,"#N/A",Protected_Devices__c
+73440c7b-eed0-40d4-8fbf-2e9c13e1ef50,Storage,true,false,false,2,"#N/A","#N/A",3.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,false,"#N/A",Storage__c
 7af1c3c5-16cc-4e0e-8a7f-b0283a50998a,Mac,true,false,false,2,"#N/A","#N/A",1.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,false,"#N/A",Mac__c
+95c4e2cb-5a71-442f-91d7-6443ec3343dc,Linux,true,false,false,2,"#N/A","#N/A",2.0,a005ea1e-2e82-42a9-b2af-b9a429e69254,"#N/A",false,Top,7d8fd83a-3d80-4756-b648-594ccc121da5,false,"#N/A",Linux__c
+af273ce4-3cc8-4651-a125-1a4188f2daac,Test,false,false,false,1,"#N/A","#N/A",1.0,"#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Unit Price
+b4ca4673-7547-4d45-80ed-a960a9b7ca3b,Mac,true,false,false,2,"#N/A","#N/A",1.0,cdf5d11d-bdf4-48ae-98b9-3961efd816c2,"#N/A",false,Top,44d6b6be-9789-4bca-ab98-ecff4eb45eee,false,"#N/A",Mac__c
+bd4541de-615b-4ddf-8dbe-e9579662b181,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,8116b26d-ddc2-45f1-a558-dd309b0cf79a,"#N/A",false,Top,8add0539-54b0-4241-93f1-053e4121546e,true,"#N/A",Protected_Devices__c
+c2aced65-3187-4f91-bece-71739c184865,Protected Devices,true,true,false,1,number_of_employees__c,Quote__c,1.0,cdf5d11d-bdf4-48ae-98b9-3961efd816c2,"#N/A",false,Top,44d6b6be-9789-4bca-ab98-ecff4eb45eee,true,"#N/A",Protected_Devices__c
+cb99b3b8-f414-4026-8c60-694bf39c7364,Server Configuration,true,false,false,1,"#N/A","#N/A",1.0,"#N/A","#N/A",false,Top,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,true,"#N/A",Configuration__c
+d142d010-8e9d-49a7-affd-b5b3c0764cc0,Server Configuration,true,false,false,1,"#N/A","#N/A",1.0,"#N/A","#N/A",false,Top,95dbfb28-97ca-44c1-b16b-6f471b0fbf02,true,"#N/A",Configuration__c
+d3a3149b-ff03-4302-8c5a-93fbd52931df,Memory Configuration,true,false,false,1,"#N/A","#N/A",1.0,27ad1a40-0a16-4ae6-b6ad-609d1f858ea7,"#N/A",false,Top,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,false,"#N/A",Memory_Config__c
 d4fec246-5a28-401c-bfa6-8b6ae1014b37,Server Configuration,true,false,false,1,"#N/A","#N/A",1.0,"#N/A","#N/A",false,Top,d6a00f9e-3f2f-4d31-9b13-cd3a270f930c,true,"#N/A",Configuration__c
+ee6b11d6-e636-4ac7-ba46-dd440e2ec329,Storage,true,false,false,2,"#N/A","#N/A",3.0,cdf5d11d-bdf4-48ae-98b9-3961efd816c2,"#N/A",false,Top,44d6b6be-9789-4bca-ab98-ecff4eb45eee,false,"#N/A",Storage__c
+f8f33e0d-6ec7-4a65-a8a7-d1dd63719733,Linux,true,false,false,2,"#N/A","#N/A",2.0,26b077a0-806b-437b-a31f-40b758d6dd9b,"#N/A",false,Top,c1f5aaa3-94d5-45c4-a192-0f2de9662d4f,false,"#N/A",Linux__c
+fe910883-aec9-473f-8b92-e6bb3d868b93,Memory Configuration,true,false,false,1,"#N/A","#N/A",1.0,3ddad46a-e36c-4445-94b6-3ab66a642f86,"#N/A",false,Top,95dbfb28-97ca-44c1-b16b-6f471b0fbf02,false,"#N/A",Memory_Config__c
+ff6729e8-2b8e-4d45-8ba4-3c5fc9a82df0,Engineering Options,false,false,false,1,"#N/A","#N/A","#N/A","#N/A","#N/A",false,Top,"#N/A",false,"#N/A",Engineering_Options__c

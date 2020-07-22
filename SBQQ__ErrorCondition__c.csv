@@ -4,46 +4,89 @@
 0536fedb-18fa-45bd-aa52-357fcce9d225,Value,False,"#N/A","#N/A",equals,06c7a6ab-2049-4d1e-8109-6249673a759d,"#N/A",Storage__c,Configuration Attributes,"#N/A"
 08dc1936-6971-4be2-a161-e1856bc40417,Value,True,"#N/A","#N/A",equals,98037468-5bfd-4769-8c78-40250325af92,"#N/A",Storage__c,Configuration Attributes,"#N/A"
 09dbe4ec-d84e-4e9f-81a3-dcbfbd525e80,Value,0,"#N/A","#N/A",equals,525d9267-ed62-4c92-88e4-9ca918ece4cc,"#N/A","#N/A","#N/A",7a76c6e5-91f1-4927-9489-2b0df24acc90
+0c693a9a-c29d-4d67-8240-c17e59b44404,Value,Performance Optimized,"#N/A","#N/A",equals,291d061d-57c2-46d9-baac-a4c8832ae460,"#N/A",Memory_Config__c,Configuration Attributes,"#N/A"
 0db95da0-8150-4840-adf9-bf0a96ef3825,Value,0,"#N/A","#N/A",greater than,a435cf78-e71f-4387-a6c5-8169cfae470d,"#N/A","#N/A","#N/A",86e1ff46-7ed3-453f-b264-f0f83fb90ca6
+12e52b41-c359-4c0b-bfca-e60c22d59705,Value,200,"#N/A","#N/A",less than,fbb1ca18-a32c-4ddf-9456-0236aeb6181a,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
 143cb3ec-7745-434b-b7a9-22e831e7b3a9,Value,0,"#N/A",1.0,greater than,e476cdc7-407a-4222-9ce9-813c3dc6d682,"#N/A","#N/A","#N/A",418d9256-810c-49c8-ac71-eeae27261253
+1b54076c-3999-4cd5-8882-f40fb6367440,Value,0,"#N/A","#N/A",equals,47823c1c-8c65-4bda-8f80-612dbd46f12a,"#N/A","#N/A","#N/A",d90b40cf-f67e-40fe-9d9b-ec187c132fc6
+1c9bfb65-65e2-49db-a477-c9696688043a,Value,0,"#N/A","#N/A",equals,916e359e-c868-4691-891b-e6a468eebddc,"#N/A","#N/A","#N/A",0934d164-180c-489f-9f2a-f17ab200dfbd
 1ca774d6-77ea-4442-9be2-f8bdcb944755,Value,True,"#N/A","#N/A",equals,5c6411f7-f4a6-485f-94c6-9c2f01ae6da2,"#N/A",Mac__c,Configuration Attributes,"#N/A"
 1cd7d191-111d-461e-80cb-29c6c60f9d5c,Value,0,"#N/A","#N/A",greater than,0d3c45ef-9dfa-40ec-862b-890b0c6ff904,"#N/A","#N/A","#N/A",19abdf6b-993c-4e4a-a8df-1fd68cc4ff90
 1fc15158-0443-4af4-9983-2e77a6f5d615,Value,0,"#N/A","#N/A",equals,9815484b-f5c0-4ea8-ad53-7869cd44445f,"#N/A","#N/A","#N/A",b27b2871-b364-4369-8770-e24437c8d92b
+21951dc0-c5ad-4ef1-96ef-7a314d2798ac,Value,False,"#N/A","#N/A",equals,5b87666c-fe76-44ad-b4a3-a38a024c4b2e,"#N/A",Linux__c,Configuration Attributes,"#N/A"
+22dde0ea-90b7-4d3f-bfe6-73c77dec7c5f,Value,0,"#N/A","#N/A",greater than,6f3a6b41-1048-42d1-81b0-c6c04f20e2f5,"#N/A","#N/A","#N/A",a8272f9b-c484-4a18-9758-9f1c1c9b46cd
+2562c578-101f-40b0-9d2d-c4ba8299f214,Value,0,"#N/A","#N/A",greater than,7b2c69f4-f28a-4e36-a1fe-1cd9390f97d1,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
+29cb9528-29d6-4133-a145-efa40be4c5d3,Value,0,"#N/A","#N/A",equals,2a73aa36-1611-407b-b8ff-97aa081fc6f5,"#N/A","#N/A","#N/A",27075bbc-710a-42b1-b2f8-73e5d1c1b399
 3170e2b3-0718-423d-8724-ccb97f70bf1f,Value,False,"#N/A","#N/A",equals,0c71c1a2-5643-40ff-b47d-eacd1ff5b6e9,"#N/A",Mac__c,Configuration Attributes,"#N/A"
+3178292a-b37c-4098-ac9d-7bdc3186c7ab,Value,0,"#N/A","#N/A",equals,25249540-21a2-4c51-a0a3-cf2f4727ec51,"#N/A","#N/A","#N/A",0c165b03-233f-4fe9-bf7a-5ca24d509dc6
 32234e8e-16b4-4f15-a340-1275eba71d46,Value,0,"#N/A","#N/A",greater than,e53d2730-659e-47b7-bfb7-8832f2871b06,"#N/A","#N/A","#N/A",7b3cf2a3-4c99-469f-a002-95c93988b06b
 33860f43-b32b-4876-a382-43fe408797d3,Value,0,"#N/A","#N/A",equals,e5f1ae2c-4940-4559-8ca9-2b4063ef19a3,"#N/A","#N/A","#N/A",e26f3486-a30e-4c65-9e33-6a051ca46012
 33dec362-ffc2-4c8e-b34c-7018c4beca83,Value,0,"#N/A","#N/A",greater than,ab02251b-dcc8-40d2-807e-9252766c505e,"#N/A","#N/A","#N/A",b1c25419-a54d-43c6-93fd-ea03b7e91393
+36907349-810d-42b7-959a-c9b7b053e236,Value,0,"#N/A","#N/A",greater than,fe06d4c7-a566-4efb-9b64-f4012ac09930,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
 38793ad4-0128-4aa1-9836-7959deac624c,Value,0,"#N/A","#N/A",greater than,8716d80b-c362-4a53-8756-7624fda52a37,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
 39d43172-50fd-49e3-8f1c-2fa57d7bc009,Value,Security,"#N/A","#N/A",equals,da96dfcc-08d1-4428-8fe0-3097fdc7c057,"#N/A",Configuration__c,Product Option,"#N/A"
 3a384419-8f89-4bac-91af-7d050f2f164b,Value,0,"#N/A","#N/A",greater than,29e71d04-62be-45a2-bde9-57df9e40e46f,"#N/A","#N/A","#N/A",aa7a02e0-71c4-4142-ad43-33875be63e4e
 3a66283f-9823-464f-ae77-e0a3a5806c08,Value,False,"#N/A","#N/A",equals,d70ba58b-d95b-4bc5-8ba8-4650f9681ded,"#N/A",Linux__c,Configuration Attributes,"#N/A"
+3b1f86f4-b81b-45c9-9949-b89f4c2d1ad4,Value,0,"#N/A","#N/A",greater than,dc3fcf6a-3167-47b6-b9d7-cd62e115f729,"#N/A","#N/A","#N/A",86ee0ae1-995c-452e-ba7f-cac5d0a5aafa
 3cd4b816-b199-4783-87e1-6c085f626907,Value,10,"#N/A","#N/A",less than,9815484b-f5c0-4ea8-ad53-7869cd44445f,"#N/A","#N/A","#N/A",aa11cdea-2aa9-4bb2-9b23-5df937318a09
+3ce35406-350c-45f6-b1fe-bcf3bb58bab6,Value,0,"#N/A","#N/A",greater than,255ff67e-23e4-4fb4-a133-9ef06ae76b05,"#N/A","#N/A","#N/A",0c165b03-233f-4fe9-bf7a-5ca24d509dc6
+3d52f387-55d6-4a33-b705-e81c0a8524f3,Value,0,"#N/A",2.0,greater than,e1125b24-3619-4202-bfc1-81bbe3597f79,"#N/A","#N/A","#N/A",94b0dde6-8808-4a0f-b84f-2c880f116a95
 3d6f5f04-422e-4d4f-a2c4-13cec4764bbb,Value,Memory Mirroring,"#N/A","#N/A",equals,f19c26fe-6a0f-4620-9506-bab9c42cb8e0,"#N/A",Memory_Config__c,Configuration Attributes,"#N/A"
+3d8b67d3-748a-4031-bcaf-46e3497600f8,Value,Security,"#N/A","#N/A",equals,ca6c664c-121e-473a-b545-5253439ed93c,"#N/A",Configuration__c,Configuration Attributes,"#N/A"
 3fb95f04-7d8b-4449-8b87-99516dbd1194,Value,0,"#N/A","#N/A",equals,a9b19df2-4d3f-49d2-8215-635e864809c3,"#N/A","#N/A","#N/A",b27b2871-b364-4369-8770-e24437c8d92b
+4008d67b-8c8a-4e06-9757-a0c674f4a543,Value,0,"#N/A","#N/A",greater than,e12f3c3f-34c2-418c-89c1-67dc0770ce98,"#N/A","#N/A","#N/A",0934d164-180c-489f-9f2a-f17ab200dfbd
+47c05997-9ebe-44b1-866d-c7440bd475bb,Value,0,"#N/A","#N/A",greater than,4f85c5b0-402e-4fb3-84f1-135bc6c9d4b2,"#N/A","#N/A","#N/A",e6c01c7d-0cb9-4ed2-acb4-9da9b4d47986
 4aa45284-c493-4d85-b187-ab5957fc76f1,Value,0,"#N/A","#N/A",greater than,525d9267-ed62-4c92-88e4-9ca918ece4cc,"#N/A","#N/A","#N/A",6845761e-432e-4ee7-a70d-2617bd61f7e9
+4b2584d4-3e15-48e0-a94e-6705fbe353b8,Value,Memory Mirroring,"#N/A","#N/A",equals,00513f0e-175d-4dd4-bbf3-edab61d1c6f9,"#N/A",Memory_Config__c,Configuration Attributes,"#N/A"
 4b3233cc-b841-4c69-b169-1e0b1dec58a5,Value,0,"#N/A","#N/A",greater than,ff064048-5a7f-445e-af53-aa28c0248cb7,"#N/A","#N/A","#N/A",aa7a02e0-71c4-4142-ad43-33875be63e4e
 4b9d902e-14fd-448c-a7ee-c4097222241d,Value,0,"#N/A","#N/A",equals,65b7948f-093b-4f05-b0d2-d7950c24c3a0,"#N/A","#N/A","#N/A",7b3cf2a3-4c99-469f-a002-95c93988b06b
+4e5bf016-0878-406e-b4aa-aada1ad05c7b,Value,0,"#N/A","#N/A",greater than,6f3a6b41-1048-42d1-81b0-c6c04f20e2f5,"#N/A","#N/A","#N/A",0934d164-180c-489f-9f2a-f17ab200dfbd
+4fcf6419-3859-4a7c-b144-60c359d146f8,Value,Asset Based,"#N/A","#N/A",equals,107d31cb-ed10-4595-a4ba-92d7c169a8d0,"#N/A",Account_Renewal_Model__c,Quote,"#N/A"
 50c83552-edea-4dd4-b786-f1b96ea29970,Value,0,"#N/A","#N/A",equals,7301b3d3-777e-4fb5-82f0-40dcc27edb0f,"#N/A","#N/A","#N/A",19abdf6b-993c-4e4a-a8df-1fd68cc4ff90
 53112da2-869a-4d85-83e6-df08d6adc3c9,Value,0,"#N/A",4.0,equals,0efbb480-7f48-4766-80c8-8a30b9d62504,"#N/A","#N/A","#N/A",5596cee6-4a7c-4487-8455-155ef82ab484
+532b6657-4e7c-420c-b23e-755cd45a5f35,Value,Security,"#N/A","#N/A",equals,5c044227-8e09-49dd-aca2-eac04b92335a,"#N/A",Configuration__c,Product Option,"#N/A"
+545ffa5e-a5c2-44e8-a106-a5e6c6a9e5df,Value,True,"#N/A","#N/A",equals,98ff357f-1ce6-492b-ade2-bd54cd9fb3cd,"#N/A",Storage__c,Configuration Attributes,"#N/A"
 54e4ca0d-4453-4a4c-90ab-041cde2cd95f,Value,Value,"#N/A","#N/A",equals,fbdb554c-a261-47e5-ba59-d34caca14c4a,"#N/A",Configuration__c,Configuration Attributes,"#N/A"
+5a36f09f-4868-4458-9244-adb4d32a2e05,Value,10,"#N/A","#N/A",less than,2a73aa36-1611-407b-b8ff-97aa081fc6f5,"#N/A","#N/A","#N/A",69a66521-cfac-4153-82e4-089ea9d059b1
 62ba7adc-0fea-4cf9-a877-61ec7bee0938,Value,0,"#N/A",2.0,greater than,0efbb480-7f48-4766-80c8-8a30b9d62504,"#N/A","#N/A","#N/A",e599de9c-bb94-4926-9353-a6432a730682
 6ae42636-cfeb-4f0c-af22-736fa6f4b90e,Value,8,"#N/A","#N/A",less than,ff064048-5a7f-445e-af53-aa28c0248cb7,"#N/A","#N/A","#N/A",aa11cdea-2aa9-4bb2-9b23-5df937318a09
 6ccb081c-812d-485c-952e-95285a191d3e,Value,0,"#N/A","#N/A",greater than,5c6411f7-f4a6-485f-94c6-9c2f01ae6da2,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
+6e6b3d3a-f884-4847-9714-bf96759a27a7,Value,True,"#N/A","#N/A",equals,fe06d4c7-a566-4efb-9b64-f4012ac09930,"#N/A",Mac__c,Configuration Attributes,"#N/A"
 6f3f2c37-0f2c-43ad-a5b0-50c4115e640f,Value,0,"#N/A","#N/A",greater than,353e8460-d1bd-4595-b816-330cef26a8f6,"#N/A","#N/A","#N/A",d3751837-5903-4ee9-99ec-d688a73f3b0b
 75b5e4c8-e65d-40f9-84de-83814db6e379,Value,0,"#N/A","#N/A",equals,92e4a96a-e09d-4e94-81c6-d722dd58ff2d,"#N/A","#N/A","#N/A",b1c25419-a54d-43c6-93fd-ea03b7e91393
+77282494-c784-4e67-9459-5a329a64826a,Value,Performance,"#N/A","#N/A",equals,a0ab2f95-d312-40b7-a663-18f63ef3b558,"#N/A",Configuration__c,Configuration Attributes,"#N/A"
+78b1c709-22a7-4df4-a283-2bdb310c32bd,Value,0,"#N/A","#N/A",greater than,165a4c40-e272-4b5a-aca2-6f15646a4fdf,"#N/A","#N/A","#N/A",22957aee-5bec-4885-91a3-02d4dbd7538c
+7a592534-af4e-4ad3-a60a-f25d1e5744e6,Value,0,"#N/A","#N/A",greater than,4d7b6b37-27c5-4b1e-bad6-26e738ca37e8,"#N/A","#N/A","#N/A",b1255696-9194-4406-834d-81f7532ce28d
 7dafef4b-ea85-40d3-a1d3-99a0bfee94a5,Value,0,"#N/A","#N/A",greater than,98037468-5bfd-4769-8c78-40250325af92,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
+7db5b718-1d52-4ccb-9e66-608c2ff18e05,Value,0,"#N/A","#N/A",equals,dc3fcf6a-3167-47b6-b9d7-cd62e115f729,"#N/A","#N/A","#N/A",de97dd30-a8f9-4cde-9676-afd6cbdb039c
 7f9d7fc7-8623-496a-865f-309279d81b37,Value,Performance,"#N/A","#N/A",equals,8bee9014-f83e-4e9c-b563-e0df87ec9219,"#N/A",Configuration__c,Configuration Attributes,"#N/A"
+82c9c4e3-cd23-42dd-9744-c6428726ced0,Value,0,"#N/A","#N/A",equals,f3dce8d0-26db-421c-ade2-4f0f75a962ad,"#N/A","#N/A","#N/A",bfb217f5-67b7-45ca-98a8-7f45599c57cb
+872c502c-4a29-4dea-a9ae-12d24fe2ac72,Value,0,"#N/A","#N/A",greater than,0801953e-27bf-4381-9a1b-219586c1ebfa,"#N/A","#N/A","#N/A",27075bbc-710a-42b1-b2f8-73e5d1c1b399
+87f71367-d93e-4664-811c-0290fbc0a9f7,Value,10,"#N/A","#N/A",greater than,393b0133-8b02-4921-9582-f9d62bf9c2b2,"#N/A","#N/A","#N/A",69a66521-cfac-4153-82e4-089ea9d059b1
+88915aff-cd39-4b05-bcc5-38faa4c145a1,Value,False,"#N/A","#N/A",equals,4a08b42e-2d17-490d-bfe1-5e0722a8a819,"#N/A",Mac__c,Configuration Attributes,"#N/A"
+88a78f92-7d55-4be1-b583-110368b65297,Value,0,"#N/A","#N/A",equals,393b0133-8b02-4921-9582-f9d62bf9c2b2,"#N/A","#N/A","#N/A",27075bbc-710a-42b1-b2f8-73e5d1c1b399
 88dca2fe-efd5-4ac2-b33c-0b0d6c40cd6c,Value,0,"#N/A","#N/A",equals,9815484b-f5c0-4ea8-ad53-7869cd44445f,"#N/A","#N/A","#N/A",aa7a02e0-71c4-4142-ad43-33875be63e4e
+89af5134-cfb5-42d9-bfc6-974de280babf,Value,0,"#N/A","#N/A",greater than,8c5bbd22-0b98-46a4-b521-a524dd8d86b2,"#N/A","#N/A","#N/A",46d14a25-3855-400b-8edb-1f0be3a0c7e2
+8d210160-117f-41fc-968b-9cd8f649233d,Value,True,"#N/A","#N/A",equals,7b2c69f4-f28a-4e36-a1fe-1cd9390f97d1,"#N/A",Linux__c,Configuration Attributes,"#N/A"
 8d793445-728b-4c06-9ccb-9d796323a8ab,Value,0,"#N/A","#N/A",equals,a9b19df2-4d3f-49d2-8215-635e864809c3,"#N/A","#N/A","#N/A",aa7a02e0-71c4-4142-ad43-33875be63e4e
 8dc2f729-9583-454f-b19a-21e840b0147b,Value,8,"#N/A","#N/A",greater than,29e71d04-62be-45a2-bde9-57df9e40e46f,"#N/A","#N/A","#N/A",aa11cdea-2aa9-4bb2-9b23-5df937318a09
+90d5f1f7-e3f1-4ef8-b24e-2afed76c9160,Value,Value,"#N/A","#N/A",equals,87d2b1d8-40d2-4514-867c-0612c146fa14,"#N/A",Configuration__c,Configuration Attributes,"#N/A"
 91d35d54-92b4-4e53-9c2f-95a3e76bedc1,Value,0,"#N/A","#N/A",greater than,aa60550a-48cd-4d57-bec7-850a1f9d31a5,"#N/A","#N/A","#N/A",b27b2871-b364-4369-8770-e24437c8d92b
+92e11e97-d209-49ff-ae05-e0a5df1f3d40,Value,0,"#N/A","#N/A",equals,893433dc-a09d-46a7-8ef1-b9b15ebfe169,"#N/A","#N/A","#N/A",e6c01c7d-0cb9-4ed2-acb4-9da9b4d47986
+9393f6a9-5b2d-4ac2-ac0e-e52a35b85918,Value,0,"#N/A",1.0,greater than,e1125b24-3619-4202-bfc1-81bbe3597f79,"#N/A","#N/A","#N/A",448ed69d-026e-4616-9271-55bd45cb0f74
 98348848-7a3f-4b2a-87d1-46a51639c2a2,Value,6,"#N/A","#N/A",greater than,aa60550a-48cd-4d57-bec7-850a1f9d31a5,"#N/A","#N/A","#N/A",aa11cdea-2aa9-4bb2-9b23-5df937318a09
 9e2c98f0-197a-4fc6-a978-85c7e3693759,Value,True,"#N/A","#N/A",equals,8716d80b-c362-4a53-8756-7624fda52a37,"#N/A",Linux__c,Configuration Attributes,"#N/A"
+a248f91a-4317-4b73-b0cf-b1549660b680,Value,0,"#N/A","#N/A",greater than,e6c1d81d-d812-4abc-b3db-459807a45b6f,"#N/A","#N/A","#N/A",22957aee-5bec-4885-91a3-02d4dbd7538c
 a33b76e0-44d6-439f-ac9d-5063b0d39875,Value,0,"#N/A","#N/A",greater than,26977f63-d7e0-46a5-b58d-3005199b4b60,"#N/A","#N/A","#N/A",35a9f21f-eeff-436f-876d-e6d41c67ef37
 a4b0d455-9bfd-47dd-97cf-946dd738bf55,Value,0,"#N/A","#N/A",equals,404c02e0-db56-460e-9da3-825d16c3763b,"#N/A","#N/A","#N/A",10dd1ea5-a291-44ab-b1c6-2ddc9cef65c4
 a4df23d1-8f44-4fa1-8d37-436578a66847,Value,10,"#N/A","#N/A",greater than,a9b19df2-4d3f-49d2-8215-635e864809c3,"#N/A","#N/A","#N/A",aa11cdea-2aa9-4bb2-9b23-5df937318a09
+a5b39146-a8d3-4172-b1fb-5b031a47b4c2,Value,Performance Optimized with Sparing,"#N/A","#N/A",equals,13e84d14-f01f-43a4-82ce-99754fa941cc,"#N/A",Memory_Config__c,Configuration Attributes,"#N/A"
+a8a22cad-48e5-4d24-a2ed-f2f6d652a810,Value,0,"#N/A","#N/A",greater than,98ff357f-1ce6-492b-ade2-bd54cd9fb3cd,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
+ae19fc9f-ca1e-400f-a210-9c6b2d683261,Value,False,"#N/A","#N/A",equals,e54c22cf-9496-41af-ba67-02bcc11f9c5d,"#N/A",Storage__c,Configuration Attributes,"#N/A"
 b28167eb-6198-4f5d-b2ab-cfbb032a2f39,Value,0,"#N/A","#N/A",equals,a07ac79b-c917-4e0b-8012-436c6fd6918a,"#N/A","#N/A","#N/A",5c70b898-4506-421b-91dd-c9ae81486390
+b36b3faa-f085-4804-9636-f68cfa3fbca3,Value,0,"#N/A","#N/A",equals,bd5379d3-bae0-4bb6-a2b5-ed2d1bc2be0c,"#N/A","#N/A","#N/A",b1255696-9194-4406-834d-81f7532ce28d
 bb319c17-bafd-42e3-aea3-16f4fe1a13c8,Value,0,"#N/A","#N/A",greater than,c57ac5af-d969-4c85-b100-beb0dfc19f86,"#N/A","#N/A","#N/A",b27b2871-b364-4369-8770-e24437c8d92b
+bbebfccd-b1f9-42a3-875b-d725a13f721b,Value,0,"#N/A",3.0,greater than,e1125b24-3619-4202-bfc1-81bbe3597f79,"#N/A","#N/A","#N/A",94b0dde6-8808-4a0f-b84f-2c880f116a95
 bce69ac4-135c-422d-a093-463c7d6b2362,Value,Asset Based,"#N/A","#N/A",equals,deb69b66-ba6a-4b5b-ba6a-05b79acd09d8,"#N/A",Account_Renewal_Model__c,Quote,"#N/A"
 bcfb7d45-7949-40d6-b208-70a5b7ac6cd2,Value,200,"#N/A","#N/A",less than,1a71e434-f8f8-4b99-9845-e3af52363c99,"#N/A",Protected_Devices__c,Configuration Attributes,"#N/A"
 c034bed7-1c9d-40af-95e0-f952bf2d31ce,Value,0,"#N/A","#N/A",greater than,a435cf78-e71f-4387-a6c5-8169cfae470d,"#N/A","#N/A","#N/A",7b3cf2a3-4c99-469f-a002-95c93988b06b
@@ -51,8 +94,22 @@ c113830c-51ae-4dbb-9edc-caa9acb9903d,Value,Performance Optimized with Sparing,"#
 c34be5dc-475a-4056-b2ad-ed56f4d287af,Value,0,"#N/A","#N/A",greater than,038bf63f-2423-49e6-b954-eb49eb0d4e68,"#N/A","#N/A","#N/A",e26f3486-a30e-4c65-9e33-6a051ca46012
 cc042298-cc97-4100-a477-3bbf543e90ed,Value,0,"#N/A",2.0,equals,e476cdc7-407a-4222-9ce9-813c3dc6d682,"#N/A","#N/A","#N/A",6845761e-432e-4ee7-a70d-2617bd61f7e9
 ce9087f1-e953-4bcd-890c-790ed9cdc7fe,Value,0,"#N/A","#N/A",equals,51407832-26d8-45ae-b2b5-8e8e7aa1ce51,"#N/A","#N/A","#N/A",35a9f21f-eeff-436f-876d-e6d41c67ef37
+cfe1562c-13cb-4f96-9547-91d2a5d367c0,Value,0,"#N/A",1.0,greater than,de1fedf4-2ba2-40dc-874f-d7017e5a9cca,"#N/A","#N/A","#N/A",5cea7692-9e59-43c8-a1f4-bb64d41b594f
+d133a6ce-7f2e-409b-82f2-46178525e0ed,Value,0,"#N/A","#N/A",equals,4235aad3-1571-46a9-bb28-3e2e7eb22ba0,"#N/A","#N/A","#N/A",5ca25ed9-4187-42a2-84b3-508a3ad3c9ba
+d345e7ad-8a87-4325-aa67-c8dd0cd15a67,Value,0,"#N/A","#N/A",greater than,0fa7d9a9-7056-41e1-9720-d560288b9a2c,"#N/A","#N/A","#N/A",5ca25ed9-4187-42a2-84b3-508a3ad3c9ba
 d56d1e25-abf3-488f-aa5e-4d7ef70323aa,Value,0,"#N/A",3.0,greater than,0efbb480-7f48-4766-80c8-8a30b9d62504,"#N/A","#N/A","#N/A",e599de9c-bb94-4926-9353-a6432a730682
+da1003df-bc01-4a4c-88aa-d1ff3463d885,Value,8,"#N/A","#N/A",less than,e6c1d81d-d812-4abc-b3db-459807a45b6f,"#N/A","#N/A","#N/A",69a66521-cfac-4153-82e4-089ea9d059b1
 dbad8dfc-a8ce-4997-a556-3c6ed669802f,Value,Performance Optimized,"#N/A","#N/A",equals,5a7d5051-0783-4ce0-a851-68a4dd40fb7d,"#N/A",Memory_Config__c,Configuration Attributes,"#N/A"
+df441b74-6488-49e8-986f-490cf3593661,Value,0,"#N/A","#N/A",greater than,3db9a4f2-ee3f-4d7f-8cda-23b1ab8165e9,"#N/A","#N/A","#N/A",27075bbc-710a-42b1-b2f8-73e5d1c1b399
 e850c832-84ec-4cdf-9cce-cf33068a1018,Value,0,"#N/A","#N/A",equals,6bc3e1c7-0625-40f5-ab70-019d7c1b8116,"#N/A","#N/A","#N/A",d3751837-5903-4ee9-99ec-d688a73f3b0b
 e94e5c1c-b348-4780-a855-37f845054981,Value,0,"#N/A","#N/A",greater than,f6b6440f-420d-46f4-8f62-e980ebc3fc10,"#N/A","#N/A","#N/A",10dd1ea5-a291-44ab-b1c6-2ddc9cef65c4
+eacc0821-2f59-4b18-80dd-ca9425230a67,Value,0,"#N/A",4.0,equals,e1125b24-3619-4202-bfc1-81bbe3597f79,"#N/A","#N/A","#N/A",0b2efd85-5e23-4e6b-807d-031eae7c5ce6
+ec271623-7f41-40e4-ad4c-16ba36f95578,Value,8,"#N/A","#N/A",greater than,165a4c40-e272-4b5a-aca2-6f15646a4fdf,"#N/A","#N/A","#N/A",69a66521-cfac-4153-82e4-089ea9d059b1
+ed82fc1a-9a79-4cac-be96-0986bcf5ff62,Value,0,"#N/A",2.0,equals,de1fedf4-2ba2-40dc-874f-d7017e5a9cca,"#N/A","#N/A","#N/A",86ee0ae1-995c-452e-ba7f-cac5d0a5aafa
+ef2a5865-cf4c-4542-aa62-3136c8aed31d,Value,0,"#N/A","#N/A",greater than,9969479f-ef67-4137-ae05-ab14829e1021,"#N/A","#N/A","#N/A",bfb217f5-67b7-45ca-98a8-7f45599c57cb
+efd27dc5-936c-4343-a625-ce704ba04787,Value,0,"#N/A","#N/A",equals,393b0133-8b02-4921-9582-f9d62bf9c2b2,"#N/A","#N/A","#N/A",22957aee-5bec-4885-91a3-02d4dbd7538c
 f389849c-7106-4aca-b6ec-db7e25103d25,Value,0,"#N/A",1.0,greater than,0efbb480-7f48-4766-80c8-8a30b9d62504,"#N/A","#N/A","#N/A",2ebf9f79-b903-4915-b9df-d2074ae8c3f1
+f4865092-d2d7-4d4f-bfda-476fd0710d65,Value,6,"#N/A","#N/A",greater than,0801953e-27bf-4381-9a1b-219586c1ebfa,"#N/A","#N/A","#N/A",69a66521-cfac-4153-82e4-089ea9d059b1
+fd6bc6e6-4ea2-4b3b-a2f3-390e67166e1f,Value,6,"#N/A","#N/A",less than,3db9a4f2-ee3f-4d7f-8cda-23b1ab8165e9,"#N/A","#N/A","#N/A",69a66521-cfac-4153-82e4-089ea9d059b1
+feee682c-d10e-4e73-80b5-cc70b583074a,Value,0,"#N/A","#N/A",equals,2a73aa36-1611-407b-b8ff-97aa081fc6f5,"#N/A","#N/A","#N/A",22957aee-5bec-4885-91a3-02d4dbd7538c
+ff7bff13-0d3d-49e4-a933-31c5aa732781,Value,0,"#N/A","#N/A",equals,a9d3daf5-2287-4294-8cd4-7be24fc86c25,"#N/A","#N/A","#N/A",46d14a25-3855-400b-8edb-1f0be3a0c7e2

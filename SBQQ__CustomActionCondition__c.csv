@@ -1,4 +1,7 @@
 "Guid","Name","SBQQ__CustomAction__c","SBQQ__Field__c","SBQQ__FilterValue__c","SBQQ__Operator__c","SBQQ__TargetObject__c"
 12f16403-d5f5-46e1-8e45-3865a58ada01,Customer Quote,a04c8092-acd4-450c-b54b-60402945b290,SBQQ__Type__c,Customer Quote,not equals,Quote
+464baef4-c03b-4130-b60b-0b8378929cc9,Customer Quote,a04c8092-acd4-450c-b54b-60402945b290,SBQQ__Type__c,Customer Quote,not equals,Quote
 4dfa6fae-eebd-40d6-89d4-ea8043c7d3cb,Customer Quote,2f03fb62-0156-4e6a-9559-13a84a68d079,SBQQ__Type__c,Customer Quote,not equals,Quote
 a42a42af-951b-4ebd-ba53-cd60e291976c,test,4a21790e-6d06-49b6-8bb2-2a8d9ba42284,"#N/A","#N/A","#N/A","#N/A"
+c688efd5-1158-49f2-8e57-e83e08e6e04b,test,4a21790e-6d06-49b6-8bb2-2a8d9ba42284,"#N/A","#N/A","#N/A","#N/A"
+e15fa964-35db-4819-a684-60a3bd4b8112,Customer Quote,2f03fb62-0156-4e6a-9559-13a84a68d079,SBQQ__Type__c,Customer Quote,not equals,Quote
