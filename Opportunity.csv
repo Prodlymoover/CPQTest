@@ -1,0 +1,2 @@
+"Guid","AccountId","Amount","CloseDate","ContactId","Description","ForecastCategoryName","LeadSource","Name","NextStep","Probability","SBQQ__Contracted__c","SBQQ__CreateContractedPrices__c","SBQQ__OrderGroupID__c","SBQQ__Ordered__c","SBQQ__QuotePricebookId__c","SBQQ__Renewal__c","StageName","Type"
+6dafb60b-68af-4a81-b392-f4f2b49597f3,0df631aa-4b3c-43de-b929-a50ed2ee9744,"#N/A",2021-03-19,"#N/A","#N/A",Pipeline,"#N/A",Best opp,"#N/A",50.0,false,false,"#N/A",false,"#N/A",false,Value Proposition,"#N/A"
